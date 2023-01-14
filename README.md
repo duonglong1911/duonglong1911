@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @duonglong1911
 - 👀 I’m interested in work about ReactJs, NodeJs, JavaScript.
-- 🌱 I’m currently learning be a FronEnd Developer
-- 💞️ I’m looking to collaborate on Email
+- 🌱 I’m currently learning be a Front-End Developer
+- 💞️ I’m looking to collaborate through email
 - 📫 Contact me by email: longlonglong1911@gmail.com 
 
 <!---
